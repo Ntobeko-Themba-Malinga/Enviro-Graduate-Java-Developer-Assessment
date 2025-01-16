@@ -28,7 +28,7 @@ Enviro365 is a waste sorting mobile application aimed at promoting sustainable w
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ntobeko-Themba-Malinga/Ntobeko-Themba-Malinga-Enviro-Graduate-Java-Developer-Assessment
+   git clone https://github.com/Ntobeko-Themba-Malinga/Ntobeko-Themba-Malinga-Enviro-Graduate-Java-Developer-Assessment.git
 2. Open the project in IntelliJ, install the required packages, and run the project.
 
 ### API Documentation
